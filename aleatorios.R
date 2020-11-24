@@ -55,7 +55,7 @@ sample(1:35,18, replace = FALSE)
 sample(1:83,21, replace = FALSE)
 
 #Especial: 25 personas.
-sample(1:35,13, replace = FALSE)
+sample(1:25,13, replace = FALSE)
 
 
 
